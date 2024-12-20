@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\bin\Debug\De1.exe.config
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\bin\Debug\De1.exe
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\bin\Debug\De1.pdb
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\obj\Debug\De1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\obj\Debug\De1.Form1.resources
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\obj\Debug\De1.Properties.Resources.resources
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\obj\Debug\De1.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\obj\Debug\De1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\obj\Debug\De1.csproj.Up2Date
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\obj\Debug\De1.exe
+C:\Users\Admin\Documents\2280600591_LeThanhDat\De1\De1\obj\Debug\De1.pdb
